@@ -1,7 +1,7 @@
 # Домашнее задание к занятию «7.4. Puppeteer 1»
 
 ## Решения
-* <a href="https://github.com/Nephedov/jsaqa-code-Nephedov93/blob/a34f0c1fac66d7ae133fba25690391c0a6d5eb35/7.4/puppeteer/gh.test.js">gh.test.js</a>. - Автотесты.
+* <a href="https://github.com/Nephedov/jsaqa-code-Nephedov93/blob/main/7.4/puppeteer/gh.test.js">gh.test.js</a>. - Автотесты.
 
 <a href="https://github.com/Nephedov/jsaqa-code-Nephedov93/tree/main/7.4/puppeteer">Репозиторий</a> с проектом (Jest+Puppeteer).
 
