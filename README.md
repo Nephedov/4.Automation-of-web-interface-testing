@@ -1,14 +1,15 @@
 # Домашнее задание к занятию «7.4. Puppeteer 1»
 
 ## Решения
-* <a href="https://github.com/Nephedov/jsaqa-code-Nephedov93/tree/a34f0c1fac66d7ae133fba25690391c0a6d5eb35/7.4/puppeteer">Репозиторий</a> с Jest-Puppeteer проектом.
 * <a href="https://github.com/Nephedov/jsaqa-code-Nephedov93/blob/a34f0c1fac66d7ae133fba25690391c0a6d5eb35/7.4/puppeteer/gh.test.js">gh.test.js</a>. - Автотесты.
 
+<a href="https://github.com/Nephedov/jsaqa-code-Nephedov93/tree/main/7.4/puppeteer">Репозиторий</a> с проектом (Jest+Puppeteer).
+
 ## Что было сделано
-* В <a href="https://github.com/Nephedov/jsaqa-code-Nephedov93/blob/a34f0c1fac66d7ae133fba25690391c0a6d5eb35/7.4/puppeteer/package.json">package.json</a> - Дописан скрипт запуска "Jest".
-* Создан <a href="https://github.com/Nephedov/jsaqa-code-Nephedov93/blob/a34f0c1fac66d7ae133fba25690391c0a6d5eb35/7.4/puppeteer/jest.config.js">jest.config.js</a> c настройками об используемых библиотеках.
-* Создан <a href="https://github.com/Nephedov/jsaqa-code-Nephedov93/blob/a34f0c1fac66d7ae133fba25690391c0a6d5eb35/7.4/puppeteer/jest-puppeteer.config.js">jest-puppeteer.config.js</a>.
-* Добавлены before/after хуки и тайм-ауты ожидания видимости эелементов страниц, в <a href="https://github.com/Nephedov/jsaqa-code-Nephedov93/blob/a34f0c1fac66d7ae133fba25690391c0a6d5eb35/7.4/puppeteer/gh.test.js">автотесты</a>.
+* В <a href="https://github.com/Nephedov/jsaqa-code-Nephedov93/blob/main/7.4/puppeteer/package.json">package.json</a> - Дописан скрипт запуска "Jest".
+* Создан <a href="https://github.com/Nephedov/jsaqa-code-Nephedov93/blob/main/7.4/puppeteer/jest.config.js">jest.config.js</a> c настройками об используемых библиотеках.
+* Создан <a href="https://github.com/Nephedov/jsaqa-code-Nephedov93/blob/main/7.4/puppeteer/jest-puppeteer.config.js">jest-puppeteer.config.js</a>.
+* Добавлены before/after хуки и тайм-ауты ожидания видимости эелементов страниц, в <a href="https://github.com/Nephedov/jsaqa-code-Nephedov93/blob/main/7.4/puppeteer/gh.test.js">автотесты</a>.
 
 
 ## Задача 1. Puppeteer timeout
