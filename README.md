@@ -12,14 +12,14 @@
 * Добавлены before/after хуки и тайм-ауты ожидания видимости эелементов страниц, в <a href="https://github.com/Nephedov/jsaqa-code-Nephedov93/blob/main/7.4/puppeteer/gh.test.js">автотесты</a>.
 
 
-## Задача 1. Puppeteer timeout
+## Описание Задания 1. Puppeteer timeout
 
 1. Сделайте форк [проекта с лекции](https://github.com/netology-code/jsaqa-code/tree/main/7.4/puppeteer).
 2. Исследуйте настройки тайм-аутов и уберите тайм-ауты из конфигурации.
 3. Задайте тайм-ауты для каждого из тестов в отдельности.
 
 
-## Задача 2. Puppeteer before and after hooks
+## Описание Задания 2. Puppeteer before and after hooks
 
 1. Добавьте ещё три теста к существующим и поместите их за блоком `describe`. 
 Новые тесты должны проверять заголовки на других страницах приложения.   
