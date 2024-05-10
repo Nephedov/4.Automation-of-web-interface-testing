@@ -12,6 +12,10 @@
 * Добавлены before/after хуки и тайм-ауты ожидания видимости эелементов страниц, в <a href="https://github.com/Nephedov/jsaqa-code-Nephedov93/blob/main/7.4/puppeteer/gh.test.js">автотесты</a>.
 
 
+---
+---
+
+
 ## Описание Задания 1. Puppeteer timeout
 
 1. Сделайте форк [проекта с лекции](https://github.com/netology-code/jsaqa-code/tree/main/7.4/puppeteer).
